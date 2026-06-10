@@ -7,21 +7,21 @@
 ### Actividad 2: Procesador Funcional de Productos
 ...
 * **Evidencia de ejecución:**
-  ![Ejecución Actividad 2](capturas_ejecucion/Captura de pantalla 2026-06-10 182356.png)
+  ![Ejecución Actividad 2](capturas_ejecucion/Ejecución1.png)
 
 ---
 
 ### Actividad 3: Calculadora de Tributos (Interfaz Funcional Personalizada)
 ...
 * **Evidencia de ejecución:**
-  ![Ejecución Actividad 3](capturas_ejecucion/Captura de pantalla 2026-06-10 182458.png)
+  ![Ejecución Actividad 3](capturas_ejecucion/Ejecución2.png)
 
 ---
 
 ### Actividad 4: Composición de Cadenas y Funciones Pipeline
 ...
 * **Evidencia de ejecución:**
-  ![Ejecución Actividad 4](capturas_ejecucion/Captura de pantalla 2026-06-10 182547.png)
+  ![Ejecución Actividad 4](capturas_ejecucion/Ejecución3.png)
 
 
 ## Compilar
